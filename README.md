@@ -1,3 +1,6 @@
+# This is an import bugfix i encountered while trying to add quill-image-resize-module in AngularJS
+This is just a fork from https://github.com/kensnyder/quill-image-resize-module
+
 # Quill ImageResize Module
 
 A module for Quill rich text editor to allow images to be resized.
